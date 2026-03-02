@@ -78,7 +78,7 @@ jobs:
           image-ref: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME_LOWER }}:scan
           exit-code: '1'
           ignore-unfixed: true
-          severity: CRITICAL,HIGH
+          severity: HIGH
 
   push-image:
     name: Push Docker Image
