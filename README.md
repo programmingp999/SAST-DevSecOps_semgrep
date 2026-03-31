@@ -152,3 +152,5 @@ Certaines taches doivent etre faites dans GitHub par vous :
 - verifier `Code scanning` si GitHub demande une activation via l'interface
 - observer et merger les PR Dependabot
 - faire la demonstration du faux secret puis nettoyer l'historique de test si necessaire
+
+
