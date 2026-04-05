@@ -183,4 +183,6 @@ Certaines taches doivent etre faites dans GitHub par vous :
 - observer et merger les PR Dependabot
 - faire la demonstration du faux secret puis nettoyer l'historique de test si necessaire
 
+- test semgrep
+
 
